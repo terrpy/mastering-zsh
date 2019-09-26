@@ -1,6 +1,6 @@
 ![](/img/banner.png)
 
-If you're already using zsh or want to start this tutorial will help you understand how zsh works and how you can customize it to your needs.
+If you're already using zsh or want to start, this tutorial will help you understand how zsh works and how you can customize it to your needs.
 
 We won't go into every feature of zsh (read the man pages for that).
 Did you know zsh has a built in ftp client and calendar?
